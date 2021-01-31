@@ -21,7 +21,7 @@ Returns are sums of weights times individual returns. Volatility is more complex
 
 
 ### Methodology for MPT
-```math
+
 * Price at time $t$: $P_t$
 * Daily Return: $r(t)=\frac{P_t-P_{t-1}}{P_{t-1}}$
 * Daily Log Return: $log(1+R_t)=logP_t-logP_{t-1}$
@@ -43,5 +43,4 @@ $$Sharpe Ratio = \frac{R_P-r_f}{\sigma_P}$$
 Where $R_P$ is the return on portfolio, $r_f$ is the risk-free rate, $\sigma_{P}$ is the volatility of portfolio.
 If we get higher sharpe ratio, then better portfolio. 
 
-```
 
