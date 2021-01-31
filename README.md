@@ -41,6 +41,7 @@ Where $\textbf{COV(Pj)}$ is the covariance matrix of $j^{th}$ portfolio, then it
 Sharpe ratio is used to help investors understand the return of an investment compared to its risk. The ratio is the average return earned in excess of the risk-free rate per unit of volatility or total risk. Volatility is a measure of the price fluctuations of an asset or portfolio.
 $$Sharpe Ratio = \frac{R_P-r_f}{\sigma_P}$$
 Where $R_P$ is the return on portfolio, $r_f$ is the risk-free rate, $\sigma_{P}$ is the volatility of portfolio.
+If we get higher sharpe ratio, then better portfolio. 
 
 
 
