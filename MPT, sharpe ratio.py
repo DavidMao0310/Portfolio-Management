@@ -1,6 +1,6 @@
 import pandas as pd
 
-import test_MPT_functions as fun
+import MPT_functions as fun
 
 full_df = pd.read_csv('fulldata.csv')
 full_df['Date'] = pd.to_datetime(full_df['Date'])
